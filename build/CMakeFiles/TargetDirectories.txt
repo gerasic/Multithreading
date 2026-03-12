@@ -1,5 +1,0 @@
-/Users/nikitagerasimov/Desktop/Study/6 semestr/Multithreading/build/CMakeFiles/server_logic.dir
-/Users/nikitagerasimov/Desktop/Study/6 semestr/Multithreading/build/CMakeFiles/server_logic_tests.dir
-/Users/nikitagerasimov/Desktop/Study/6 semestr/Multithreading/build/CMakeFiles/test.dir
-/Users/nikitagerasimov/Desktop/Study/6 semestr/Multithreading/build/CMakeFiles/edit_cache.dir
-/Users/nikitagerasimov/Desktop/Study/6 semestr/Multithreading/build/CMakeFiles/rebuild_cache.dir

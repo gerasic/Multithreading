@@ -1,5 +1,0 @@
-if(EXISTS "/Users/nikitagerasimov/Desktop/Study/6 semestr/Multithreading/build/server_logic_tests[1]_tests.cmake")
-  include("/Users/nikitagerasimov/Desktop/Study/6 semestr/Multithreading/build/server_logic_tests[1]_tests.cmake")
-else()
-  add_test(server_logic_tests_NOT_BUILT server_logic_tests_NOT_BUILT)
-endif()
