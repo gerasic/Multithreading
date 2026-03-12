@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libserver_logic.a CMakeFiles/server_logic.dir/src/server_logic_core.cpp.o CMakeFiles/server_logic.dir/src/server_logic_utils.cpp.o CMakeFiles/server_logic.dir/src/server_logic_auth.cpp.o CMakeFiles/server_logic.dir/src/server_logic_orders.cpp.o CMakeFiles/server_logic.dir/src/server_logic_rating.cpp.o CMakeFiles/server_logic.dir/src/server_logic_execution.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libserver_logic.a
