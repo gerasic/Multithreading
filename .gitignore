@@ -41,3 +41,6 @@
 *.dwo
 
 build/
+.vscode/
+THEORY.md
+hotkeys.txt
